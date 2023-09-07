@@ -1,3 +1,4 @@
+/*Wiele nauczy³em siê z tego filmu: "https://www.youtube.com/watch?v=Nrr-lwS_0LY&t=5s"*/
 #include <iostream>
 #include <vector>
 const int iloscelementow = 5;
